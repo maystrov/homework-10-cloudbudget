@@ -285,7 +285,10 @@ body {
     text-decoration: none;
     color: #101010;
 }
-.copyright {
+.services_list_link:hover {
+    color: #ED4C5C;
+}
+.copyright {add
     margin-top: 140px;
 }
 .services_title {
