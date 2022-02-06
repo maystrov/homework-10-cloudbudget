@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('subset-Lato-SemiBold.eot');
+    src: url('subset-Lato-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('subset-Lato-SemiBold.woff2') format('woff2'),
+        url('subset-Lato-SemiBold.woff') format('woff'),
+        url('subset-Lato-SemiBold.ttf') format('truetype'),
+        url('subset-Lato-SemiBold.svg#Lato-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('subset-Lato-Bold.eot');
+    src: url('subset-Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-Lato-Bold.woff2') format('woff2'),
+        url('subset-Lato-Bold.woff') format('woff'),
+        url('subset-Lato-Bold.ttf') format('truetype'),
+        url('subset-Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('subset-Lato-Regular.eot');
+    src: url('subset-Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-Lato-Regular.woff2') format('woff2'),
+        url('subset-Lato-Regular.woff') format('woff'),
+        url('subset-Lato-Regular.ttf') format('truetype'),
+        url('subset-Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
